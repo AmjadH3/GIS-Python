@@ -1,1 +1,0 @@
-This is practice for git and github
